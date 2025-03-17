@@ -2,3 +2,5 @@
 Dashboard de Análises Agronômicas https://app.powerbi.com/view?r=eyJrIjoiMDE4ZTU5N2YtMDBjZi00YmE2LWFkZmQtMTZiN2NkZjM1YTkzIiwidCI6ImNmNDBkOTAwLTdhYzEtNGY2ZS05YWY3LTNmZDUwNDM0MDMxOCJ9
 
 Dashbaord de Faturamento e Acurácia Orçamentária https://app.powerbi.com/view?r=eyJrIjoiMzVmOGYxZTItOTAzNi00MWQxLWEzZWMtNDRiYmNjMTllYmNlIiwidCI6IjE4NDYyNzc3LTI5NTAtNDhkNy05OGYzLWIyZDg1YWIxYTE0MSJ9
+
+Dashboard Comercial de Loja de Varejo https://app.powerbi.com/view?r=eyJrIjoiNmNiNGE5M2YtOGUzYi00ODU5LWI2NWYtYjg1ZGU1MjNhNmViIiwidCI6IjkwODFhNjI4LTU4MjctNDg4MS05NzZkLTU5M2EzNWM1YzFmZSJ9
